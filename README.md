@@ -3,6 +3,12 @@
 A multi-route React e-commerce storefront built with React Router (client-side routing),
 Context API (global cart + mock auth), and the DummyJSON products API.
 
+🚀 Live Demo
+🔗 Website: https://shopzone-jet-seven.vercel.app/
+
+💻 GitHub Repository
+🔗 Source Code: https://github.com/Rajkashyap97/shopzone
+
 ## Features implemented
 
 **Phase 1 — Base Routing**
